@@ -1,0 +1,14 @@
+.nav-item{
+    margin-right: 100px;
+}
+
+
+.container9{
+    height: 400px;
+    width: 500px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
